@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35579" started-at="2018-07-06T16:04:02Z" finished-at="2018-07-06T16:04:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35579" started-at="2018-07-06T16:04:02Z" finished-at="2018-07-06T16:04:37Z">
+      <class name="com.usa.ttech.mukta.ValidateMethod">
+        <test-method status="PASS" signature="LoginValidationpage()[pri:1, instance:com.usa.ttech.mukta.ValidateMethod@4b4523f8]" name="LoginValidationpage" duration-ms="20662" started-at="2018-07-06T12:04:02Z" finished-at="2018-07-06T12:04:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginValidationpage -->
+        <test-method status="PASS" signature="HomePageValidation()[pri:2, instance:com.usa.ttech.mukta.ValidateMethod@4b4523f8]" name="HomePageValidation" duration-ms="14863" started-at="2018-07-06T12:04:23Z" finished-at="2018-07-06T12:04:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageValidation -->
+      </class> <!-- com.usa.ttech.mukta.ValidateMethod -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
